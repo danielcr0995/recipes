@@ -1,2 +1,2 @@
 # recipes
-odins project recipes
+Small project to practice html coding.
